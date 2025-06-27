@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/Users/muhiqbalhakim/dev/multimodal-asisstant/backend/venv/bin/python",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "basedpyright.analysis.autoImportCompletions": true,
+    "basedpyright.analysis.typeCheckingMode": "basic",
+    "git.ignoreLimitWarning": true
+}

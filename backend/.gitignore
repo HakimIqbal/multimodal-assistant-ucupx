@@ -1,0 +1,20 @@
+__pycache__/
+.github/workflows/
+api/__pycache__/
+api/auth/__pycache__/
+api/auth/__init__.py
+api/endpoints/__pycache__/
+api/endpoints/__init__.py
+api/__init__.py
+config/__pycache__
+config/__init__.py
+GoogleDrive-token/client_secret_237423433593-54tf0mk8dsi15e54vg6ah6kld5eip0cd.apps.googleusercontent.com.json
+node_modules/
+src/__pycache__/
+src/auth/__pycache__/
+src/auth/__init__.py
+src/__init__.py
+venv/
+__init__.py
+.env
+requirements copy.txt
