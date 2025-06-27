@@ -17,4 +17,4 @@ src/__init__.py
 venv/
 __init__.py
 .env
-requirements copy.txt
+requirements copy.txtbackend/complete_schema.sql
