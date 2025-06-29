@@ -18,3 +18,4 @@ backend/venv/
 backend/__init__.py
 backend/.env
 backend/requirements copy.txt
+.env
